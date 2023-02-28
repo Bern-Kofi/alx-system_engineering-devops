@@ -4,4 +4,4 @@ A script that change the working directory to the user's home directory.
 A script that displays the current directory contents in a long format.
 A script that displays the current directory contents, including hidden files (starting with .).Use the long format.
 Displays current directory contents
-
+A script that creates a directory named my_first_directory in the /tmp/directory
